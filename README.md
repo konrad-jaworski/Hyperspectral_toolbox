@@ -19,5 +19,5 @@ A Python library for organizing and loading image frames from binary files into 
 ## Installation
 
 ```bash
-pip install git+https://github.com/yourusername/hypercube-loader.git
+pip install git+https://github.com/konrad-jaworski/Hyperspectral_toolbox.git
 ```
